@@ -1,5 +1,8 @@
 # My_Portfolio
-This is a summary of my portfolio. I have completed some interesting projects, mostly utilising Python for machine learning models and data analysis. 
+This is a summary of my portfolio. I have completed some interesting projects, mostly utilising Python for machine learning models and data analysis.
+<img width="1440" alt="Screenshot 2024-01-21 at 1 16 15 AM" src="https://github.com/Sharan0310/My_Portfolio/assets/120735798/c2b8171a-619d-47ff-9b65-3dd784eebb98">
+ 
+
 
 In my portfolio, I have focused on four primary projects that are:
 1) DATA SCIENCE PROJECT
